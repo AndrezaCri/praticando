@@ -1,0 +1,48 @@
+### **Lógica de Programação**  
+1. **Soma Simples**  
+   Escreva um programa que receba dois números e exiba a soma deles.  
+
+2. **Número Par ou Ímpar**  
+   Faça um programa que peça um número ao usuário e diga se ele é par ou ímpar.  
+
+3. **Contagem Progressiva**  
+   Crie um programa que conte de 1 a 10 e exiba os números na tela.  
+
+---
+
+### **HTML**  
+1. **Título e Parágrafo**  
+   Crie uma página com um título `<h1>` e um parágrafo `<p>` com um texto qualquer.  
+
+2. **Imagem Simples**  
+   Adicione uma imagem à sua página usando a tag `<img>`.  
+
+3. **Link para Outra Página**  
+   Insira um link `<a>` que leve para outro site (por exemplo, Google).  
+
+---
+
+### **CSS**  
+1. **Cor de Fundo**  
+   Defina uma cor de fundo para sua página usando CSS.  
+
+2. **Texto Colorido**  
+   Estilize um título `<h1>` para que tenha uma cor diferente do padrão.  
+
+3. **Borda em um Elemento**  
+   Adicione uma borda de 2px sólida a um parágrafo.  
+
+---
+
+### **JavaScript**  
+1. **Alerta Simples**  
+   Faça um script que exiba um alerta com a mensagem "Olá, mundo!".  
+
+2. **Alteração de Texto**  
+   Escreva um script que altere o texto de um parágrafo ao clicar em um botão.  
+
+3. **Soma de Dois Números**  
+   Peça ao usuário dois números e exiba a soma deles em um alerta.  
+
+---
+

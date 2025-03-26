@@ -1,6 +1,10 @@
 Lógica de Programação
 Sequência Numérica
 Escreva um programa que imprima os primeiros 10 números da sequência de Fibonacci.
+a = 0
+b = 1
+
+
 
 Números Primos
 Crie um algoritmo que receba um número e determine se ele é primo.
